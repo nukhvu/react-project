@@ -1,4 +1,20 @@
 .nav {
   grid-area: n;
-  background-color: cadetblue;
+  background-color: #e8dcd0;
+  font-family: Andalus;
+  padding: 20px;
+}
+.item {
+  color: darkgrey;
+  font-size: 30px;
+  line-height: 80px;
+  font-weight: 600;
+  text-decoration: none;
+}
+.item:hover {
+  text-decoration: none;
+  color: black;
+}
+.active {
+  color: black;
 }

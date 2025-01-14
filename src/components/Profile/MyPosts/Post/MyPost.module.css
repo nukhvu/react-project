@@ -1,5 +1,13 @@
 .item {
-  background-color: rgb(231, 39, 183);
+  /*background-color:lemonchiffon;*/
+  padding: 20px;
+  /*border: 1px solid none;*/
+  margin: 10px;
+  /*box-shadow: rgba(136, 165, 191, 0.48) 6px 2px 16px 0, rgba(255, 255, 255, 0.8) -6px -2px 16px 0px;*/
+
+  border-radius: 15px;
+  background-color: Snow;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
 }
 
 .item img {
